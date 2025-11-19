@@ -1,0 +1,2 @@
+const String openAIKey =
+    "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";
