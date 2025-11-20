@@ -1,19 +1,15 @@
-# Hello World
+# Quick&Easy Receipe App
 
-A new Flutter project created with FlutLab - https://flutlab.io
+### Features:
+#### View a list of meals with images, calorie info, and preparation time. All data is fetched live from an external API.(ThemealDB Api)
+#### View detailed recipe information
+#### Add and remove recipes from Favorites
+#### AI Chat Assistant: Ask cooking questions, get recipe ideas, and receive instant guidance powered by AI.
+#### Simple and user-friendly interface
 
-## Getting Started
+</br></br>
+#### Uygulama ekran görüntüleri:></br>
+<img src="https://github.com/kubranurdogann/Flutter-Coffee-Shop-App/blob/main/banner/coffee-app-images-first-page.png" alt="banner" width="450" height="600" /></br>
 
-A few resources to get you started if this is your first Flutter project:
 
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
 
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-## Getting Started: FlutLab - Flutter Online IDE
-
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
