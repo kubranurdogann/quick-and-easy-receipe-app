@@ -9,7 +9,15 @@
 
 </br></br>
 #### Uygulama ekran görüntüleri:></br>
-<img src="https://github.com/kubranurdogann/Flutter-Coffee-Shop-App/blob/main/banner/coffee-app-images-first-page.png" alt="banner" width="450" height="600" /></br>
+<div>
+  <img src="https://github.com/kubranurdogann/quick-and-easy-receipe-app/blob/main/assets/welcome%20page.png" alt="banner" width="150" height="300" />
+  <img src="https://github.com/kubranurdogann/quick-and-easy-receipe-app/blob/main/assets/main%20page.png" alt="banner" width="150" height="300" />
+  <img src="https://github.com/kubranurdogann/quick-and-easy-receipe-app/blob/main/assets/meal-detail%20page.png" alt="banner" width="150" height="300" />
+  <img src="https://github.com/kubranurdogann/quick-and-easy-receipe-app/blob/main/assets/favorites%20page.png" alt="banner" width="150" height="300" /></br>
+  <img src="https://github.com/kubranurdogann/quick-and-easy-receipe-app/blob/main/assets/chat%20page%201.png" alt="banner" width="150" height="300" />
+    <img src="https://github.com/kubranurdogann/quick-and-easy-receipe-app/blob/main/assets/chat%20page%202.png" alt="banner" width="150" height="300" />
+    <img src="https://github.com/kubranurdogann/quick-and-easy-receipe-app/blob/main/assets/chat%20page%203.png" alt="banner" width="150" height="300" />
+</div>
 
 
 
